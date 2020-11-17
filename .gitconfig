@@ -1,0 +1,15 @@
+[user]
+	name = trojaj12
+	email = trojaj12@fit.cvut.cz
+[color]
+	ui = auto
+[push]
+	default = simple
+[core]
+	editor = code -w
+[alias]
+	st = status
+	ci = commit
+	co = checkout
+	br = branch
+	ll = log --oneline --graph --all --decorate
