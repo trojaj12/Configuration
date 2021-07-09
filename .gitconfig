@@ -6,7 +6,7 @@
 [push]
 	default = simple
 [core]
-	editor = code -w
+	editor = vim:
 [alias]
 	st = status
 	ci = commit
